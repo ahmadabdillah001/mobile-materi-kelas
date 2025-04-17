@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:tiket_wisata/core/extensions/build_context_ext.dart';
+import 'package:tiket_wisata/ui/home/pages/history_page.dart';
 import 'package:tiket_wisata/ui/home/pages/order_page.dart';
 import 'package:tiket_wisata/ui/home/pages/qr_scanner_page.dart';
 import 'package:tiket_wisata/ui/home/pages/ticket_page.dart';
@@ -19,6 +20,7 @@ class _MainPageState extends State<MainPage> {
   final _page = [
     const OrderPage(),
     const TicketPage(),
+    const HistoryPage(),
   ];
 
   @override

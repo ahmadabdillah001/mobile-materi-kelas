@@ -1,0 +1,2 @@
+C:/Users/USER/Documents/mobile/Kelas TRPL-A s2/tiket_wisata/android/app/.cxx/Debug/4b1i562s/x86/CMakeFiles/edit_cache.dir
+C:/Users/USER/Documents/mobile/Kelas TRPL-A s2/tiket_wisata/android/app/.cxx/Debug/4b1i562s/x86/CMakeFiles/rebuild_cache.dir
